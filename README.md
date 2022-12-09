@@ -15,8 +15,10 @@
 </span>
 
 <h3>🛠 Tool</h3>
+<span>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<span>
 
 <br/><br/>
 
@@ -28,5 +30,7 @@
   <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukssss&layout=compact&theme=react" />
         <a href="https://github.com/anuraghazra/convoychat">
     </a></p>
+
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=100&section=footer)
