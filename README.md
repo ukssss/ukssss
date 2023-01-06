@@ -22,7 +22,7 @@
 
 <br/>
 
-<h3>🌿 Status</h3>
+<!-- <h3>🌿 Status</h3>
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ukssss&show_icons=true&theme=react" />
@@ -30,7 +30,7 @@
     <a href="https://github.com/anuraghazra/convoychat">
         <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukssss&layout=compact&theme=react" />
     </a>
-</p>
+</p> -->
 
 <br/>
 
